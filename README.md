@@ -84,6 +84,6 @@ streamlit run app.py
 ```
 
 ## 9. Required Submission Links (to include in final PDF)
-- **GitHub Repository Link:** `https://github.com/<your-username>/<your-repo>`
-- **Live Streamlit App Link:** `https://<your-app-name>.streamlit.app`
+- **GitHub Repository Link:** `https://github.com/2025aa05796-Karthick-M/ml-assignment-2-streamlit-classification`
+- **Live Streamlit App Link:** `https://ml-assignment-2-app-classification-wbqnhgm8ympmw3zmxzpdqt.streamlit.app/`
 - **BITS Virtual Lab Screenshot:** Add one screenshot proving assignment execution on BITS lab.
