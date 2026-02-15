@@ -87,3 +87,6 @@ streamlit run app.py
 - **GitHub Repository Link:** `https://github.com/2025aa05796-Karthick-M/ml-assignment-2-streamlit-classification`
 - **Live Streamlit App Link:** `https://ml-assignment-2-app-classification-wbqnhgm8ympmw3zmxzpdqt.streamlit.app/`
 - **BITS Virtual Lab Screenshot:** Add one screenshot proving assignment execution on BITS lab.
+
+## 10. BITS Virtual Lab Execution Screenshot
+![BITS Virtual Lab Execution Proof](Virtual_lab_execution_proof.jpg)
